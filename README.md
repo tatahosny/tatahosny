@@ -57,16 +57,6 @@
 
 ---
 
-### 🐍 My GitHub Contribution Snake
-### 🐍 My GitHub Contribution Snake
-![snake gif](https://github-readme-stats.vercel.app/api/snake?github_user=tatahosnyE&color_snake=4FC08D&color_dots=bfd6f6,8dbdff,64a1ff,4b91ff,217aff)
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tatahosny/tatahosnyE/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tatahosny/tatahosnyE/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tatahosny/tatahosnyE/output/github-contribution-grid-snake.svg">
-</picture>
-
-*(Note: The snake animation requires a GitHub Action to run, but it looks awesome!)*
 
 ---
 
