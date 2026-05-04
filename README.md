@@ -59,9 +59,9 @@
 
 ### 🐍 My GitHub Contribution Snake
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tatahosnyE/tatahosnyE/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tatahosnyE/tatahosnyE/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tatahosnyE/tatahosnyE/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tatahosny/tatahosnyE/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tatahosny/tatahosnyE/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tatahosny/tatahosnyE/output/github-contribution-grid-snake.svg">
 </picture>
 
 *(Note: The snake animation requires a GitHub Action to run, but it looks awesome!)*
@@ -69,7 +69,7 @@
 ---
 
 ### 📊 Activity Graph
-![Your GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tatahosnyE&theme=react-dark&bg_color=0D1117&hide_border=true)
+![Your GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tatahosny&theme=react-dark&bg_color=0D1117&hide_border=true)
 
 ---
 
