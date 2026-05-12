@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Mostafa_Hosny] 
+# 👋 Hi there, I'm Mostafa_Hosny
 ### 🚀 Full-Stack Magician & Embedded Systems Architect
 
 <p align="center">
